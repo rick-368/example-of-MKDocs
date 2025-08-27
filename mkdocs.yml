@@ -1,3 +1,37 @@
-site_name: My Docs
+site_name: Three Little Pigs
 theme:
   name: material
+  icon:
+    logo: material/pig # 页面左上角的图标
+  language: zh # 语言
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/toggle-switch 
+        name: 天黑请闭眼
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: 天亮请睁眼
+
+  features:
+    - navigation.tabs # 开启标签页导航栏
+    - navigation.top # 开启顶部导航栏
+    - search.highlight # 开启搜索框高亮
+  
+  nav:
+    - 前言: index.md
+    - 第一只猪:
+      - 简介: docs\first_pig\简介.md 
+    - 第二只猪:
+      - 简介: docs\second_pig\简介.md
+    - 第三只猪:
+      - 简介: docs\third_pig\简介.md
+  markdown_extensions:
+    - attr_list

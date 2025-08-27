@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# 三只小猪
+俗话说的不错，七中不大，创造神话。在各路神仙层出不穷的2021级2班，有这样三个人，它们代表着人类的无知、懒惰等低劣的阴暗面，每一个单独拎出来都能祸害一方，但它们却在各种机缘巧合下走到了一起，它们勾心斗角、互相算计，厮杀了无数次，至今仍未分出胜负，这也许就是人类历史上最“残酷”的游戏，它们也被称为“三只小猪”。笔者写这篇文章，是为了引发警醒，希望各位能以此为戒，不要步入此三人的后尘。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 笔者本人
 
-## Commands
+笔者名为雷帝·炎煌，是上帝的得力副手，被上帝派来隐匿于人间，以观察人性善恶，本来以为是一次无聊的差遣，但在种种机缘巧合之下，来到了神人作怪的七中，遇到了这“三只小猪”。它们的出现，让笔者的这趟旅程不再无趣。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 三只小猪的认识历程
 
-## Project layout
+由于年代已经过于久远，三只小猪是怎么认识的已经鲜为人知，笔者作为亲历者，记忆也早已模糊不清，依稀记着二班创世皇yangsir在一次分组中，将这三神人与笔者分至一起，笔者当时对三人并不了解，于是欣然接受，但殊不知，这三人将会在之后掀起一阵腥风血雨。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
