@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://rick-368.github.io/example-of-MKDocs/</loc>
+         <lastmod>2025-08-28</lastmod>
+    </url>
+    <url>
+         <loc>https://rick-368.github.io/example-of-MKDocs/first_pig/%E7%AE%80%E4%BB%8B/</loc>
+         <lastmod>2025-08-28</lastmod>
+    </url>
+    <url>
+         <loc>https://rick-368.github.io/example-of-MKDocs/second_pig/%E7%AE%80%E4%BB%8B/</loc>
+         <lastmod>2025-08-28</lastmod>
+    </url>
+    <url>
+         <loc>https://rick-368.github.io/example-of-MKDocs/third_pig/%E7%AE%80%E4%BB%8B/</loc>
+         <lastmod>2025-08-28</lastmod>
+    </url>
 </urlset>
