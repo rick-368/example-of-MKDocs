@@ -33,5 +33,4 @@ theme:
       - 简介: docs\second_pig\简介.md
     - 第三只猪:
       - 简介: docs\third_pig\简介.md
-  markdown_extensions:
-    - attr_list
+site_url: https://rick-368.github.io/example-of-MKDocs/
